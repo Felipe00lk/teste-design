@@ -81,9 +81,10 @@ p:hover{
     margin-top:90px;
   }
   .botoes{
-    displa:flex;
+    display:flex;
     flex-direction: column;
 gap: 24px;
+     align-items: center;
 
   }
   .classe3{
@@ -93,9 +94,6 @@ gap: 24px;
   .classe4{
     width:160px;
     height:160px;
-  }
-  body{
-    margin:0 16px;
   }
 
 }
