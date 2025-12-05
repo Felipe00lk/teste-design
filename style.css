@@ -88,13 +88,8 @@ p:hover{
     font-size:32px;
     margin-top:90px;
   }
-  .botoes {
-    display:flex;
-    flex-direction: column;
-    align-items:center;
-    justify-content:center;
+ 
   
-  }
   .classe3{
     font-size:16px;
     padding: 12px 24px;
@@ -104,9 +99,16 @@ p:hover{
   .classe4{
     width:160px;
     height:160px;
-
-
+    margin-top:60px;
 
 }
+  body{
+display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+
+    
+  }
 
 }
