@@ -113,7 +113,9 @@ display:flex;
     
   }
 .botoes{
-
+display:flex;
+  justify-content:center;
+  align-items:center;
   
 }
 }
