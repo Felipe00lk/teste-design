@@ -93,7 +93,7 @@ p:hover{
     flex-direction: column;
     gap: 24px;
     align-items: center;
-    left:50%;
+    
     
     
 
@@ -101,10 +101,14 @@ p:hover{
   .classe3{
     font-size:16px;
     padding: 12px 24px;
+    display:block;
+    margin:0 auto;
   }
   .classe4{
     width:160px;
     height:160px;
+    display:block;
+    margin:0 auto;
 
 
 }
