@@ -74,7 +74,16 @@ p:hover{
 
 @media (max-width: 768px) {
 
+.p{
+  position:relative;
+ margin:0 10px;
 
+  
+}
+  .botoes{
+    position:relative;
+ right:600px;
+  }
 
   
 }
