@@ -76,17 +76,18 @@ p:hover{
 
 .p{
   position:relative;
- margin:0 10px;
+ margin:0 5px;
 
   
 }
   .classe3{
     position:relative;
  right:600px;
+    top:40px
   }
    .classe4{
     position:relative;
- right:600px;
+ right:900px;
    }
   
 }
