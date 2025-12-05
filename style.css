@@ -58,7 +58,7 @@ body{
 }
 .botoes{
  position:relative;
-  margin:560px;
+ left:600px;
   padding:40px 0;
  
 }
@@ -93,7 +93,7 @@ p:hover{
     flex-direction: column;
     gap: 24px;
     align-items: center;
-    margin:500px;
+    left:50%;
     
     
 
