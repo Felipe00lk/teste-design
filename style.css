@@ -73,49 +73,8 @@ p:hover{
 }
 
 @media (max-width: 768px) {
-  .classe1{
-    font-size:16px;
-    padding:0 5px;
 
-    
-    
-  }
-  p{
- margin:0 5px;
-    
-  }
-  h1{
-    font-size:32px;
-    margin-top:90px;
-  }
- 
-  
-  .classe3{
-    font-size:16px;
-    padding: 12px 24px;
-    
-  
-  }
-  .classe4{
-    width:160px;
-    height:160px;
-    margin-top:60px;
 
-}
-  .tudo{
-display:flex;
-  justify-content:center;
-  align-items:center;
-  flex-direction:column;
-    margin:0;
-    height:100vh;
 
-    
-  }
-.botoes{
-display:flex;
-  justify-content:center;
-  align-items:center;
   
-}
 }
