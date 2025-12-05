@@ -102,7 +102,7 @@ p:hover{
     margin-top:60px;
 
 }
-  body{
+  .tudo{
 display:flex;
   justify-content:center;
   align-items:center;
@@ -113,9 +113,7 @@ display:flex;
     
   }
 .botoes{
-display: flex;
-justify-content: center; 
-gap: 10px; 
+
   
 }
 }
