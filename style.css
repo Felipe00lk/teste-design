@@ -91,24 +91,21 @@ p:hover{
   .botoes {
     display:flex;
     flex-direction: column;
-    gap: 24px;
-    align-items: center;
-    
-    
-    
-
+  
   }
   .classe3{
     font-size:16px;
     padding: 12px 24px;
     display:block;
     margin:0 auto;
+    width:90px;
   }
   .classe4{
     width:160px;
     height:160px;
     display:block;
-    margin:0 auto;
+    margin:10px auto;
+   
 
 
 }
