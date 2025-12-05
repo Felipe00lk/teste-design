@@ -76,7 +76,7 @@ p:hover{
 
 .p{
   position:relative;
- margin:0 5px;
+ margin-right:-11px;
 
   
 }
@@ -85,9 +85,17 @@ p:hover{
  right:600px;
     top:40px
   }
-   .classe4{
-    position:relative;
- right:900px;
-   }
-  
+button.classe3{
+display:block;
+  position:relative;
+  margin-top:150px;
+  margin-left:100px;
+}
+  button.classe4{
+    display:block;
+  margin-left:-540px;
+  }
+  body{
+  overflow-x: hidden;
+  }
 }
