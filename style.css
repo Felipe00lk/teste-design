@@ -82,11 +82,13 @@ p:hover{
     font-size:32px;
     margin-top:90px;
   }
-  .botoes .h1{
+  .botoes {
     display:flex;
     flex-direction: column;
     gap: 24px;
     align-items: center;
+    right:500px;
+    top:30px;
     
     
 
@@ -98,10 +100,7 @@ p:hover{
   .classe4{
     width:160px;
     height:160px;
-  }
-body{
-  max-width:768px;
-  overflow-x: hidden;
+
 
 }
 
