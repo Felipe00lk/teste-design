@@ -78,7 +78,7 @@ p:hover{
     padding: 0 5px;
   }
   P{
-    margin: 20px 10px;
+    margin: 20px 15px;
     font-size: 18px;
   }
 
@@ -96,5 +96,9 @@ p:hover{
 
   body, html{
   overflow-x: hidden;
+  }
+  h1{
+margin:auto;
+
   }
 }
