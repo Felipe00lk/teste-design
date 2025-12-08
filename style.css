@@ -80,10 +80,17 @@ p{
 
   
 }
+  h1{
+   margin:0 0 -150px 0;
+    box-sizing:border-box;
+
+  }
   .classe3{
     position:relative;
+    box-sizing:border-box;
  right:600px;
     top:40px
+    margin: 90px;
   }
 button.classe3{
 display:block;
