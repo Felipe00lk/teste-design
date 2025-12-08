@@ -77,7 +77,8 @@ p:hover{
 p{
   position:relative;
  margin-right:-11px;
-
+box-sizing:border-box;
+  right:40px;
   
 }
   h1{
