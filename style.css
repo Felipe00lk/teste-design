@@ -73,36 +73,27 @@ p:hover{
 }
 
 @media (max-width: 768px) {
+.classe1 {
+    align-items: center;
+    padding: 0 5px;
+  }
+  P{
+    margin: 20px 10px;
+    font-size: 16px;
+  }
 
-p{
-  position:relative;
- margin-right:-11px;
-box-sizing:border-box;
-  right:40px;
-  
-}
-  h1{
-   margin:0 0 -150px 0;
-    box-sizing:border-box;
+  .botoes {
+    left: 0;
+    text-align: center;
+    margin-top: 20px;
+  }
 
+  .classe3 {
+    right: 0;
+    bottom: 120px;
+    margin: 10px 0;
   }
-  .classe3{
-    position:relative;
-    box-sizing:border-box;
- right:600px;
-    top:40px;
-    margin: 90px;
-  }
-button.classe3{
-display:block;
-  position:relative;
-  margin-top:150px;
-  margin-left:100px;
-}
-  button.classe4{
-    display:block;
-  margin-left:-540px;
-  }
+
   body, html{
   overflow-x: hidden;
   }
